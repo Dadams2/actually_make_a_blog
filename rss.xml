@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Dadams' Blog</title>
+		<link>https://dadams2.com</link>
+		<description>Posts from Actually Make A Blog.</description>
+		<language>en-us</language>
+		<lastBuildDate>Wed, 08 Apr 2026 00:00:00 GMT</lastBuildDate>
+
+		<item>
+			<title>Actually Starting My Blog</title>
+			<link>https://dadams2.com/actually-starting-a-blog.html</link>
+			<guid>54A24DED-F5C1-45A5-99F5-1E066EB85625</guid>
+			<pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
+			<description>A lot of people want to make a website but don’t know where to start or they get stuck.</description>
+		</item>
+	</channel>
+</rss>
